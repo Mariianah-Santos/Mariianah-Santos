@@ -23,4 +23,4 @@
 <h2>Rede Sociais</h2>
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mariih_gsantos/)
-[![Linkedin](https://www.linkedin.com/in/mariana-gon%C3%A7alo-3269a9263/)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mariana-gon%C3%A7alo-3269a9263/)
