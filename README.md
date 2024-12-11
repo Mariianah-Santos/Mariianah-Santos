@@ -1,7 +1,7 @@
 <h1> :pushpin: Olá, sejam bem-vindos ao meu Repositório Pessoal:sparkles:</h1>
 
 <h2>:sparkling_heart: Sobre mim</h2>
-<p>Meu nome é Mariana. Atualmente estou estudando no 3º Modúlo do curso Técnico em Desenvolvimento de Sistema 
+<p>Meu nome é Mariana. E sou Formada no curso Técnico em Desenvolvimento de Sistema 
   e mais alguns cursos no ramo da programação para agregar mais ainda meu conhecimento. Tenho habilidades técnicas de Front-End como de Back-End, consigo me adaptar as linguagens e/ou FrameWorks que a empresa esteja procurando.
 
 
