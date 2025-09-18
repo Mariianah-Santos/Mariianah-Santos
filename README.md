@@ -1,8 +1,10 @@
 <h1> :pushpin: Olá, sejam bem-vindos ao meu Repositório Pessoal:sparkles:</h1>
 
 <h2>:sparkling_heart: Sobre mim</h2>
-<p>Meu nome é Mariana. E sou Formada no curso Técnico em Desenvolvimento de Sistema 
-  e mais alguns cursos no ramo da programação para agregar mais ainda meu conhecimento. Tenho habilidades técnicas de Front-End e Back-End, consigo me adaptar as linguagens e/ou FrameWorks que a empresa esteja procurando.
+<p>Sou estudante de Análise e Desenvolvimento de Sistemas (ADS), em busca de aprimorar meus conhecimentos e crescer na área de tecnologia.
+Atuo como desenvolvedora Front-end, com experiência em correção de bugs e melhorias em aplicações web.
+Tenho conhecimentos em frameworks, bibliotecas e no desenvolvimento web, explorando ferramentas e boas práticas para evoluir constantemente.
+Aqui no GitHub compartilho projetos, estudos e práticas que refletem meu aprendizado contínuo.
 
 
 </p>
